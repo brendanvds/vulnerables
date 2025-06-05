@@ -2,6 +2,8 @@
 
 #this program gives you different options to run a docker container like one for dvwa or webgoat
 #reminder: don't forget to add Security Shepherd to the chooseable options
+figlet vulnerables
+
 echo "[1] DVWA"
 echo "[2] webgoat"
 echo "[3] Juice Shop"
